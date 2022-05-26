@@ -1,1 +1,1 @@
-shell basic
+About Bash projects
